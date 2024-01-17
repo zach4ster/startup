@@ -11,4 +11,8 @@ The site will have an option to review past transactions that will be stored in 
 #### WebSocket Data
 My site will allow buyers and sellers to chat and negotiate prices. Additionally, there will be a section with listings that potential buyers can navigate and estimated values for tickets based on the current average price paid for tickets of the same kind. 
 ## Wireframe
-
+![Homepage](https://github.com/zach4ster/startup/assets/156482224/d50228d2-3b32-427c-9952-a23d21281266)
+![Signup](https://github.com/zach4ster/startup/assets/156482224/4fb0644d-dbeb-42d2-b4c9-9b2ff5417fd6)
+![Login](https://github.com/zach4ster/startup/assets/156482224/48c3ba7f-3786-4c66-a8e2-147150f98cd6)
+![TicketList](https://github.com/zach4ster/startup/assets/156482224/0b515287-4053-4318-ae8d-bc03938c6270)
+![Checkout](https://github.com/zach4ster/startup/assets/156482224/3211c4d8-e906-4ca2-b9b4-b901914e336f)
